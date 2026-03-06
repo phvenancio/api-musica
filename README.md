@@ -52,15 +52,7 @@ musique/
 
 ## ⚙️ Configuração do Ambiente
 
-### 1️⃣ Criar ambiente virtual (opcional, mas recomendado)
-
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate     # Windows
-```
-
-### 2️⃣ Instalar dependências
+### 1️⃣ Instalar dependências
 
 ```bash
 pip install -r requirements.txt
